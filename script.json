@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 55000,
+    "image": "images/laptop.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 22000,
+    "image": "images/mobile.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 2500,
+    "image": "images/headphone.jpg",
+    "category": "Accessories"
+  }
+]
